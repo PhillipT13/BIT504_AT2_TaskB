@@ -8,7 +8,7 @@ import javax.swing.JFrame;
 
 
 public class Pong extends JFrame{
-
+//Added second comment for Github exercise
 	public Pong() {
     	setTitle("Pong");
     	setSize(800, 600);
